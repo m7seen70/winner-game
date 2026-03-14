@@ -1,0 +1,13 @@
+{
+  "name": "winner-web-real",
+  "version": "1.0.0",
+  "description": "Winner real-time web game starter",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "socket.io": "^4.8.1"
+  }
+}
